@@ -2595,7 +2595,7 @@ body {
   background-image: url("../../../assets/images/screenshot-6-1325x625.png");
 }
 .cid-rkRONiN24O .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
   text-align: center;
   font-weight: 300;
 }
@@ -2697,6 +2697,9 @@ body {
   .cid-rkRONiN24O .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-rkRONiN24O .mbr-section-title {
+  color: #ffffff;
 }
 .cid-rkPXjA9eRt .navbar {
   padding: .5rem 0;
